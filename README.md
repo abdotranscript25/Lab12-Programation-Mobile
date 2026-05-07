@@ -342,7 +342,7 @@ Ce laboratoire m'a permis de maîtriser la **communication Android ↔ Serveur**
 
 | Élément | Information |
 |---------|-------------|
-| **Nom** | El Hachilmi Abdelhamid |
+| **Nom** | El Hachimi Abdelhamid |
 | **GitHub** | [abdotranscript25](https://github.com/abdotranscript25) |
 | **Lab** | Programmation Mobile - Lab 12 |
 
